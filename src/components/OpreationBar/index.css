@@ -1,0 +1,20 @@
+.opreation-bar-inner {
+  line-height: 56px;
+  display: flex;
+}
+.opreation-bar-left {
+  flex: auto;
+  max-width: 70%;
+}
+.opreation-bar-right {
+  flex: 1;
+  color: #1890ff;
+  text-align: right;
+}
+.button-item {
+  margin: 0px 4px;
+}
+.link-item {
+  margin: 0px 4px;
+  padding: 0px 4px;
+}

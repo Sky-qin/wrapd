@@ -1,0 +1,23 @@
+.toolbar {
+  display: block;
+}
+
+.toolbarInline {
+  display: inline-block;
+}
+
+.tool {
+  margin: 0 2px 0 0;
+}
+
+.group {
+  margin: 0 8px 0 0;
+}
+
+.compact .tool {
+  margin: 0 1px;
+}
+
+.compact .group {
+  margin: 0 4px;
+}
