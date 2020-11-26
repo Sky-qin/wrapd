@@ -5,7 +5,6 @@ import styles from "./index.css";
 
 const OpreationBar = (props) => {
   const { buttonList, linkList, total = 0, custom, onClick } = props;
-  console.log("props", props);
   return (
     <div>
       <div className={styles["opreation-bar-inner"]}>

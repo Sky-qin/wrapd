@@ -4,7 +4,6 @@ import { Tooltip, Button } from "antd";
 
 const TooltipButton = (props) => {
   const { children, tip, placement, ...restProps } = props;
-  console.log("props", props);
   return (
     <Tooltip title={tip} placement={placement}>
       <Button {...restProps}>{children}</Button>
