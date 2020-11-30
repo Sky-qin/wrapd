@@ -1,0 +1,10 @@
+.add-icon {
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+  opacity: 0.4;
+}
+
+.add-icon:hover {
+  opacity: 1;
+}

@@ -1,0 +1,10 @@
+.cancel-icon {
+  text-align: center;
+  justify-content: space-around;
+  align-items: center;
+  opacity: 0.4;
+}
+
+.cancel-icon:hover {
+  opacity: 1;
+}
