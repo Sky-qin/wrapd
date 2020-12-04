@@ -23,7 +23,7 @@ const ViewLyout = {
         }}
       >
         <div style={{ display: "flex" }}>
-          <div style={{ paddingRight: "8px" }}>{title}</div>
+          <div style={{ paddingRight: "3px" }}>{title}</div>
           <div style={{ paddingTop: "8px", flex: 1, lineHeight: "20px" }}>
             {children}
           </div>
